@@ -36,7 +36,7 @@ def main():
             )
         with upload_col3:
             st.write("")
-    
+
         if st.button("Proses Gambar", use_container_width=True):
             st.write("")
             # Preprocessing Data
