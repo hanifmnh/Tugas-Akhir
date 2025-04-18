@@ -15,7 +15,7 @@ def main():
     )
 
     # Model SVM
-    with open("svm_model_rbf.pkl", "rb") as file:
+    with open("Code/svm_model_rbf.pkl", "rb") as file:
         svm_rbf = pickle.load(file)
 
     st.write("")
