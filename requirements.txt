@@ -4,3 +4,4 @@ numpy
 Pillow
 pyfeats
 pandas
+scikit-learn
